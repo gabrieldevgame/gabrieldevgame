@@ -4,8 +4,8 @@
 - 📫 How to reach me:
 - Celular | WhatsApp: (41) 99600-5022
 - E-mail: gabrieldevgame@gmail.com
-- LinkedIn: linkedin.com/in/gabrieldevgame
+- LinkedIn: https://linkedin.com/in/gabrieldevgame
 
 - Portfólio:
-- Jogos Unity | GDD: drive.google.com/drive/folders/1gMO5PbnoDStJYIjXqNKTWEpHytentzsy
-- Concept Art | Pixel Art: behance.net/gabrieldevgame
+- Jogos Unity | GDD: https://drive.google.com/drive/folders/1gMO5PbnoDStJYIjXqNKTWEpHytentzsy
+- Concept Art | Pixel Art: https://behance.net/gabrieldevgame
