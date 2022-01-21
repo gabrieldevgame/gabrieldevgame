@@ -1,4 +1,11 @@
 - 👋 Hi, I’m @gabrieldevgame
 - 👀 I’m interested in Programing Games
 - 🌱 I’m currently learning Unity Engine and C#
-- 📫 How to reach me 
+- 📫 How to reach me:
+- Celular | WhatsApp: (41) 99600-5022
+- E-mail: gabrieldevgame@gmail.com
+- LinkedIn: linkedin.com/in/gabrieldevgame
+
+- Portfólio:
+- Jogos Unity | GDD: drive.google.com/drive/folders/1gMO5PbnoDStJYIjXqNKTWEpHytentzsy
+- Concept Art | Pixel Art: behance.net/gabrieldevgame
